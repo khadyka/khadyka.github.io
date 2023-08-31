@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+  }
+  
+  .menu {
+    list-style: none;
+    display: flex;
+  }
+  
+  .menu li {
+    margin-right: 20px;
+  }
+  
+  .menu a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .banner {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .animated-text h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .animated-text p {
+    font-size: 18px;
+    color: #777;
+  }
+  
+  .description {
+    padding: 30px;
+  }
+  
+  .description h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
